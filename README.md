@@ -2,4 +2,4 @@
 
 My zed themes
 
-trying to port https://github.com/konradkalita/dark-plus-elixir to zed
+Heavily inspired by https://github.com/konradkalita/dark-plus-elixir
