@@ -1,3 +1,5 @@
-# my_zed_theme
+# my_zed_themes
 
-Trying to port https://github.com/konradkalita/dark-plus-elixir to zed
+My zed themes
+
+trying to port https://github.com/konradkalita/dark-plus-elixir to zed
